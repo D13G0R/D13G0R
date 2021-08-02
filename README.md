@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @D13G0R
-- 👀 I’m interested in be a developer professional
+- 👀 I’m interested in be a developer professional in backend and frontend 
 - 🌱 I’m currently learning programming in JS
 - 💞️ I’m student and I want to learn a lot
 - 📫 How to reach me 
