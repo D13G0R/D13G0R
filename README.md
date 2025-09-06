@@ -92,26 +92,20 @@ class Desarrollador:
         
     def habilidades_backend(self):
         return {
-            "frameworks": ["Django", "FastAPI", "Flask", "Express.js", "Spring Boot"],
+            "frameworks": ["Django", "FastAPI", "Flask", "Spring Boot"],
             "bases_de_datos": ["MySQL", "PostgreSQL"],
-            "herramientas": ["Docker", "GitHub", "Diagramas ER"]
+            "herramientas": ["Docker", "GitHub", "Draw.io"]
         }
         
-    def habilidades_frontend(self):
-        return {
-            "lenguajes": ["JavaScript", "HTML5", "CSS3"],
-            "frameworks": ["Node.js"],
-            "experiencia": "En desarrollo"
-        }
         
     def metodologias(self):
         return ["SCRUM", "Desarrollo Ágil"]
         
     def pasatiempos(self):
-        return ["Unity Game Development", "Aprender nuevas tecnologías"]
+        return ["Unity Game Development", "Aprender nuevas tecnologías", "Musica", "Ejercicio"]
 ```
 
-## 📫 **¡Conectemos!**
+## 📫 **¡Conectame!**
 
 ¿Interesado en colaborar o tienes alguna pregunta? ¡No dudes en contactarme!
 
