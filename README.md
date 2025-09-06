@@ -105,7 +105,7 @@ class Desarrollador:
         return ["Unity Game Development", "Aprender nuevas tecnologías", "Musica", "Ejercicio"]
 ```
 
-## 📫 **¡Conectame!**
+## 📫 **¡Contactame!**
 
 ¿Interesado en colaborar o tienes alguna pregunta? ¡No dudes en contactarme!
 
