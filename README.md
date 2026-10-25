@@ -22,7 +22,7 @@ Mantenimiento, refactorización y nuevas funcionalidades en una plataforma de m�
 ## Stack
 
 - **Lenguajes:** Java, TypeScript, JavaScript, Python, PHP, SQL
-- **Frameworks:** Spring Boot, Quarkus, Angular, Django, Tailwind CSS
+- **Frameworks:** Spring Boot, Quarkus, Angular, Django, Flask Tailwind CSS
 - **Bases de datos:** PostgreSQL, MySQL, Oracle, SQLite, MongoDB (básico)
 - **Herramientas:** Git, GitHub, Azure Boards, n8n, Docker (básico), Railway
 - **Metodologías:** Scrum
