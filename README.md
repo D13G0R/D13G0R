@@ -1,6 +1,6 @@
 # Diego Alejandro Rodríguez Espinoza
 
-Desarrollador Full Stack Junior. Tecnólogo en Análisis y Desarrollo de Software (SENA, 2026).
+Desarrollador Full Stack Junior. Tecnólogo en Análisis y Desarrollo de Software, SENA – Centro de Tecnología de la Manufactura Avanzada (2026).
 
 Bello, Antioquia, Colombia · rdiegorodriguez48@gmail.com · [LinkedIn](https://www.linkedin.com/in/diego-alejandro-rodriguez-es%C3%ADnoza-019473208)
 
